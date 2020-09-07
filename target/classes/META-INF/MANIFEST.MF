@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: Vinoth
+Build-Jdk: 11.0.8
+Implementation-Title: SFG Brewery Monolith UI
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor-Id: com.github.sfg-beer-works
+Implementation-Vendor: Spring Framework Guru
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/sfg-beer-works-bom/brewery-monolith
+Created-By: Maven Integration for Eclipse
+
